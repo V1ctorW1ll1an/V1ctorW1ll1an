@@ -16,6 +16,8 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/47677499/101260801-1f0f4c00-3711-11eb-9aef-6d50540b4e49.png" />]
+[<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/47677499/101260847-7f05f280-3711-11eb-829e-99614c7aac81.png" />]
 
 <br />
 <br />

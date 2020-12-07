@@ -20,6 +20,7 @@
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/47677499/101260847-7f05f280-3711-11eb-829e-99614c7aac81.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/47677499/101361176-6adf0400-387d-11eb-94f1-387ae9363861.png" />
 <img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/47677499/101361588-eccf2d00-387d-11eb-8b7a-3c02a60044e9.png" />
-
+<img align="left" alt="Nvim" width="26px" src="https://user-images.githubusercontent.com/47677499/101362069-66671b00-387e-11eb-9155-3b44dc4ef6df.png" />
+<img align="left" alt="Vim" width="26px" src="https://user-images.githubusercontent.com/47677499/101362253-a29a7b80-387e-11eb-962d-b9b1bb505fc4.png" />
 <br />
 <br />

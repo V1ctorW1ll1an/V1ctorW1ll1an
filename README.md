@@ -15,3 +15,5 @@
 
 - 🌱 I’m currently learning nodejs and typescript!
 - ⚡ fun fact: I like to play chess, program and read in my spare time!
+
+![](https://komarev.com/ghpvc/?username=V1ctorW1ll1an&color=blue&style=flat)

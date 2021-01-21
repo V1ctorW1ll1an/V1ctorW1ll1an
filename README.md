@@ -22,7 +22,7 @@
 
 ## Social Media
 
-## <a href="https://www.instagram.com/v1ctor_ws/"><img src="https://user-images.githubusercontent.com/47677499/105118670-a50f0880-5aad-11eb-8682-57e1d41ff2f3.png" width="16"></img></a> [Instagram](https://www.instagram.com/v1ctor_ws/)
+## <a href="https://www.instagram.com/v1ctor_ws/"><img src="https://user-images.githubusercontent.com/47677499/105401480-0f868c80-5c05-11eb-812f-bbc71909490d.png" width="16"></img></a> [Instagram](https://www.instagram.com/v1ctor_ws/)
 
 ---
 

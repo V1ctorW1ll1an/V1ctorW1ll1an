@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I like to play chess, program and read in my spare time!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [SSI](https://github.com/solucionarti)
 
-- 🌱 I’m currently learning **Nodejs, Typescript, React, React Native and Pytho**
+- 🌱 I’m currently learning **Nodejs, Typescript, React, React Native and Python**
 
 - 👯 I’m looking to collaborate on [vuejs](https://github.com/vuejs/vue)
 

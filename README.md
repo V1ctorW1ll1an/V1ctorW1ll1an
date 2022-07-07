@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Victor Willian</h1>
 <h3 align="center">I'm a Front-end Developer!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1ctorw1ll1an&label=Profile%20views&color=0e75b6&style=flat" alt="v1ctorw1ll1an" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v1ctorw1ll1an" alt="v1ctorw1ll1an" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on SSI<br><br>🌱 I’m currently learning Nodejs, Typescript, React, React Native and Python<br><br>👯 I’m looking to collaborate on vuejs<br><br>👨‍💻 All of my projects are available at https://github.com/V1ctorW1ll1an<br><br>📝 I regularly write articles on https://travele.atlassian.net/wiki/home<br><br>💬 Ask me about vue, css, html, js, node<br><br>📫 How to reach me victorwillian.dev@gmail.com<br><br>⚡ Fun fact I like to play chess, program and read in my spare time!
 

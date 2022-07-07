@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Front-end Developer!!</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on SSI<br><br>🌱 I’m currently learning Nodejs, Typescript, React, React Native and Python<br><br>👯 I’m looking to collaborate on vuejs<br><br>👨‍💻 All of my projects are available at https://github.com/V1ctorW1ll1an<br><br>📝 I regularly write articles on https://travele.atlassian.net/wiki/home<br><br>💬 Ask me about vue, css, html, js, node<br><br>📫 How to reach me victorwillian.dev@gmail.com<br><br>⚡ Fun fact I like to play chess, program and read in my spare time!
+🔭 I’m currently working on SSI<br><br>🌱 I’m currently learning Nodejs, Typescript, React, React Native and Python<br><br>👯 I’m looking to collaborate on vuejs<br><br>👨‍💻 All of my projects are available at https://github.com/V1ctorW1ll1an<br><br>📝 I regularly write articles on https://travele.atlassian.net/wiki/home<br><br>💬 Ask me about vue, css, html, js, node<br><br>📫 How to reach me victorwillian.dev@gmail.com<br><br>
 
 
 ## 🌐 Socials:

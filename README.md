@@ -1,7 +1,6 @@
 ![capa github](https://user-images.githubusercontent.com/47677499/105233493-ae00e800-5b48-11eb-9016-bf143e1fdb53.png)
 
 <h1 align="center">Hi 👋, I'm Victor Willian</h1>
-<h3 align="center">I'm a Front-end Developer!!</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on SSI<br>📚 I’m currently learning Nodejs, Typescript, .Net<br>👀 I’m looking to collaborate on vuejs<br>🏆 All of my projects are available at https://github.com/V1ctorW1ll1an

@@ -4,8 +4,7 @@
 
 # 💫 About Me:
 <br>
-<br>
-<br>
+
 Hello! Welcome to my GitHub profile. I am a full-stack developer with a strong focus on front-end development. I have a passion for building engaging and user-friendly web applications. As a student of Information Systems, I am constantly exploring new technologies and expanding my skill set.
 <br>
 <br>

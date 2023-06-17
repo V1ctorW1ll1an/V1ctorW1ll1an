@@ -3,6 +3,21 @@
 <h1 align="center">Hi 👋, I'm Victor Willian</h1>
 
 # 💫 About Me:
+<br>
+Hello! Welcome to my GitHub profile. I am a full-stack developer with a strong focus on front-end development. I have a passion for building engaging and user-friendly web applications. As a student of Information Systems, I am constantly exploring new technologies and expanding my skill set.
+<br>
+Front-end development: I have extensive experience in front-end development, with a particular emphasis on JavaScript frameworks. My favorite framework is Vue.js, but I am also proficient in React.js and Next.js. I enjoy creating interactive and responsive user interfaces that provide a seamless user experience.
+<br>
+Back-end development: While my primary expertise lies in front-end development, I also have knowledge and experience in back-end development. I am comfortable working with server-side technologies and building RESTful APIs.
+<br>
+Artificial Intelligence: In my free time, I am fascinated by the field of artificial intelligence. I enjoy studying various AI concepts and exploring their applications in real-world scenarios. It's an exciting area that continually challenges me to think creatively and problem-solve.
+<br>
+Continuous Learning: I believe that learning is a lifelong journey, especially in the ever-evolving world of technology. I am always enthusiastic about learning new programming languages and exploring emerging trends in the industry. Currently, my favorite language is C#, and I find its versatility and powerful features particularly appealing.
+<br>
+If you'd like to collaborate on a project, have any questions, or just want to connect, feel free to get in touch with me. You can contact me using any of the social networks mentioned in my profile.
+<br>
+Thank you for visiting my profile and I look forward to exploring the exciting world of software development even more.
+<br>
 🔭 I’m currently working on SSI<br>📚 I’m currently learning Nodejs, Typescript, .Net<br>👀 I’m looking to collaborate on vuejs<br>🏆 All of my projects are available at https://github.com/V1ctorW1ll1an
 
 

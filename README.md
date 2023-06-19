@@ -39,7 +39,7 @@ Thank you for visiting my profile and I look forward to exploring the exciting w
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=V1ctorW1ll1an&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V1ctorW1ll1an&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorW1ll1an&theme=dark&size_weight=1&count_weight=0&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorW1ll1an&theme=dark&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=V1ctorW1ll1an&theme=radical&no-frame=false&no-bg=false&margin-w=4)

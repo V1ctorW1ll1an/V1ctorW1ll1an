@@ -28,7 +28,7 @@ Thank you for visiting my profile and I look forward to exploring the exciting w
 <br>
 <br>
 <br>
-🔭 I’m currently working on SSI<br>📚 I’m currently learning Nodejs, Typescript, .Net<br>👀 I’m looking to collaborate on vuejs<br>🏆 All of my projects are available at https://github.com/V1ctorW1ll1an
+🔭 I’m currently working on SSI<br>📚 I’m currently learning Nodejs, Typescript, .Net<br>👀 I’m looking to collaborate on vuejs<br>
 
 
 ## 🌐 Socials:
